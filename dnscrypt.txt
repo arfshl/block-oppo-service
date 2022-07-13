@@ -1,0 +1,14 @@
+# Version: 1
+# Title: Block Oppo Service
+# Homepage: https://github.com/arfshl/block-oppo-service/
+*heytap*.com
+*oppomobile.com
+*clevertap-prod.com
+*coloros.com
+register.xmpush.global.xiaomi.com
+# Google tracking
+userlocation.googleapis.com
+ad*.google.com^
+*googletag*.com^
+# Mixpanel tracking
+*mixpanel.com
