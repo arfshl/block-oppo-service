@@ -1,17 +1,16 @@
-[Adblock Plus 2.0]
 ! Version: 1
 ! Title: Block Oppo Service
 ! Homepage: https://github.com/arfshl/block-oppo-service/
-||heytapmobi.com^
-||heytapmobile.com^
-||heytapimg.com^
-||heytapimage.com^
-||heytapconf.com^
+||heytap*.com^
 ||oppomobile.com^
 ||clevertap-prod.com^
 ||coloros.com^
 ||register.xmpush.global.xiaomi.com^
-! User location tracking
+! Google tracking
 ||userlocation.googleapis.com^
+||ad*.google.com^
+||googletag*.com^
 ! Mixpanel tracking
 ||mixpanel.com^
+! Popin tracking
+||popin.cc^
